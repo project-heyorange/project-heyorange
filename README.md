@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/project-heyorange">
-  <img height="150em" width="500em" src="https://github-readme-stats.vercel.app/api?username=project-heyorange&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
-   <img height="150em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=project-heyorange&layout=compact&langs_count=7&theme=codeSTACKr"/>
+  <img height="150em" width="350em" src="https://github-readme-stats.vercel.app/api?username=project-heyorange&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
+   <img height="150em" width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=project-heyorange&layout=compact&langs_count=7&theme=codeSTACKr"/>
 </div>
 
 <h1>Autores</h1>
