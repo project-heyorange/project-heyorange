@@ -3,9 +3,11 @@
 <h5 align="center">Projeto desenvolvido pelo SQUAD 32, para o Hackaton do Programa de Formação da FCamara.</h5>
 
 <img src = "https://cdn.discordapp.com/attachments/958876722193895484/964352798487638026/Captura_de_tela_de_2022-04-14_23-12-23.png" alt="Layout do Projeto">
+Este projeto foi desenvolvido durante o Hackaton do Programa de Formação da FCamara, onde tivemos 15 dias para desenvolver esse MVP (Mínimo Produto Viável). O projeto foi desenvolvido em equipe com Designers e Desenvolvedores, onde a Joyce e a Isadora ficaram responsáveis pela parte do FrontEnd e o Alexandre e o Ruan, foram os responsáveis pelo BackEnd.
 
+O HeyOrange é uma plataforma de Mentorias, desenvolvida primeiramente para os funcionários da Fcamara, onde cada pessoas em diferentes níveis de experiências, podem se disponibilizar para mentorar ou buscar uma mentoria. A plataforma foi pensada para estreitar o contato de pessoas que estão em início de carreira e pessoas que já possuem mais experiência e que desejam ajudar outras pessoas.
 
-
+<hr>
 <div align="center">
   <a href="https://github.com/project-heyorange">
   <img height="150em" width="350em" src="https://github-readme-stats.vercel.app/api?username=project-heyorange&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
